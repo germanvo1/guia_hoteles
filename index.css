@@ -1,0 +1,29 @@
+.card-hotel{
+  flex: 1 150px;
+  padding: 4px 8px 4px 8px;
+}
+
+footer{
+  padding: 10px 10px 0 10px;
+  margin-bottom: 0px;
+  margin-top: 10px;
+  color: black;
+}
+.jumbotron{
+  color: black;
+  background-image: url(img/colombia.jpg);
+  background-repeat: no-repeat;
+  background-position: center,center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  width: 100%!important;
+}
+.container{
+  padding: 7px 5px 5px 7px;
+  
+}
+img{
+  vertical-align: middle;
+  border-style: none;
+}
